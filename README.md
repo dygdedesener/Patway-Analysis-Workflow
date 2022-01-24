@@ -1,2 +1,2 @@
 # Patway-Analysis-Workflow
-Pathway anlaysis workflow for omics data analysis
+Pathway analysis workflow for omics data analysis
